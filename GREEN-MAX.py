@@ -2,4 +2,4 @@
 import platform
 bit = platform.architecture()[0]
 if bit == '64bit':
-    import GREENMAX.py
+    import FUCK
